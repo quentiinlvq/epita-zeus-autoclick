@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Sélectionne automatiquement APPING1_C2 dans Zeus
-// @author       Vous
+// @author       quentiinlvq
 // @match        https://zeus.ionis-it.com/*
 // @match        http://zeus.ionis-it.com/*
 // @grant        none
